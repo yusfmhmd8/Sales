@@ -1,0 +1,9 @@
+For Increasing knowledge about #Power_BI Analysis, 
+I Made a Project For Sales Analysis 
+Import data from  MS Sql Serve Using (AdventureWork Database)
+Making ETL By Using Power Query
+Using Sql Queries For Making Analysis On Data 
+Design #Data_Warehousing as Star Schema on Power BI Model
+Loading Data On Power BI For #Visualization
+Using #Dax For Analysis Service to Make Measures and Calculated Columns 
+ 
