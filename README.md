@@ -6,5 +6,7 @@
 ![](Date_Warehouse_Design.PNG)
 ### 3.Making Analysis For Data
 ##### Using Sql Queries And DAX  For Making Analysis On Data 
+##### SQL
 ![](Analysis.PNG)
+##### DAX
 ![](DAX.PNG)
