@@ -7,3 +7,4 @@
 ### 3.Making Analysis For Data
 ##### Using Sql Queries And DAX  For Making Analysis On Data 
 ![](Analysis.PNG)
+![](DAX.PNG)
