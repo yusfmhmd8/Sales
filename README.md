@@ -11,3 +11,11 @@
 ##### DAX
 ![](DAX.PNG)
 ### 4.Loading Data On Power BI For #Visualization
+##### Dashboard
+![](Sales.PNG)
+##### Details 
+![](details.PNG)
+##### ToolTip
+![](tooltip.PNG)
+
+
