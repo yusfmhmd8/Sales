@@ -10,3 +10,4 @@
 ![](Analysis.PNG)
 ##### DAX
 ![](DAX.PNG)
+### 4.Loading Data On Power BI For #Visualization
